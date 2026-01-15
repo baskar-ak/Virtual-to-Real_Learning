@@ -1,0 +1,5 @@
+training_set
+testing_set
+DICT_4X4_50.json
+myModel.pth
+myOptimizer.pth
