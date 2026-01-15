@@ -14,10 +14,10 @@ The acquisition of data in real-world is always challenging, resourse intensive 
 * *Object recognition*: The collected dataset is used to train a convolutional neural network build using PyTorch to recognize real-world objects on a live stream.<br/>
 
 ### Solution Architecture:
-<img src="" width="300"><br/>
+<img src="./images/workflow.jpg" width="750"/>
 
 ### Results:
-<img src="" width="300"><br/>
+<img src="./images/results.jpg" width="450"/>
 The model achieved an accuracy of 96% with a loss of 0.11.
 
 ### Limitations:
